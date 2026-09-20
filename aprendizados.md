@@ -99,6 +99,7 @@ Esses recursos são importantes para manter um fluxo de desenvolvimento organiza
 ## Conclusão
 A prática contribuiu para compreender melhor o fluxo de versionamento.
 
+O projeto permitiu praticar os principais comandos do Git.
 A realização do projeto possibilitou transformar os conceitos estudados sobre Git e GitHub em uma experiência prática.
 
 Além de aprender comandos individuais, foi possível compreender um fluxo completo de trabalho, desde a criação de alterações até sua revisão e integração na branch principal.

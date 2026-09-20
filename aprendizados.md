@@ -97,6 +97,7 @@ Git e GitHub permitem organizar o histórico do projeto, trabalhar com branches,
 Esses recursos são importantes para manter um fluxo de desenvolvimento organizado e facilitar o acompanhamento das mudanças realizadas no código.
 
 ## Conclusão
+A prática contribuiu para compreender melhor o fluxo de versionamento.
 
 A realização do projeto possibilitou transformar os conceitos estudados sobre Git e GitHub em uma experiência prática.
 
